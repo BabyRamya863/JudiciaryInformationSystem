@@ -1,1 +1,1 @@
-The motto of the project is to help handle court cases by maintaining a digital record and to make the compelete data of past cases easily available to lawyers and judges.And Performing the CRUD operations on various modules.
+The motto of this project is to handle court cases by maintaining a digital record and to make the compelete data of past cases easily available to lawyers and judges.And Performing the CRUD operations on various modules.
